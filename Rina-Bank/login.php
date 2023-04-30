@@ -34,7 +34,7 @@
         <div class="container">
             <div class="login-box">
             <div class="row">
-            <button class="btn" onclick="window.location.href='http://localhost/userregistration/Home.html';"> Home </button>
+            <button class="btn" onclick="window.location.href='https://stuntstorm.github.io/RINA-BANK/Rina-Bank/Home.html';"> Home </button>
             <br> <br> <br>
   
                 <div class="col-md-6 login-left">
